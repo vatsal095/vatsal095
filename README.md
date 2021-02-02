@@ -19,8 +19,7 @@
 
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
-Currently, I am working as Blockchain Developer at [Spectral Finance](https://spectral.finance/).
-And parallelly working as Freelance Full Stack Blockchain Developer , so don't hesitate to contact at vatsal.salkiya95@gmail.com or [LinkedIn](https://www.linkedin.com/in/vatsal-h-salkiya/) for the services.
+Currently, I am working as Blockchain Developer at [Spectral Finance](https://spectral.finance/).I am passionate about Blockchain Technology and currently working on top of the Ethereum Blockchain.
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
