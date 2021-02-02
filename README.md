@@ -14,19 +14,27 @@
 </a>
 &nbsp;
 
+### About Me ###
+----------------------------------------------------------------------------------------------------------------------------
+Currently, I am working as Blockchain Developer at [Spectral Finance](https://spectral.finance/).
+And parallelly working as Freelance Full Stack Blockchain Developer , so don't hesitate to contact at vatsal.salkiya95@gmail.com or [LinkedIn](https://www.linkedin.com/in/vatsal-h-salkiya/) for the services.
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-<!--
-**vatsal095/vatsal095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Here are some ideas to get you started:
+#### My Portfolio ####
+- 📫 My Resume: [View PDF](https://docs.google.com/document/d/16IondubzGxG3yZ78Chejp0B8yrLk4Ns_/edit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Skills ###
+----------------------------------------------------------------------------------------------------------------------------
+- Languages - **Solidity,JavaScript & HTML,CSS**
+- Libraries/Frameworks: - **React, NodeJS, Web3js, Mocha, Chai**
+- Tools: - **Truffle, Ganacehe, CLI, Git, Github**
+
+### Github Readme Stats ###
+----------------------------------------------------------------------------------------------------------------------------
+<a href="https://profile-summary-for-github.com/user/vatsal095">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=vatsaL095&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="vatsal's GitHub stats"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsal095&hide_langs_below=5&layout=compact" alt="vatsal095's language stats"/>
+</a>
+
