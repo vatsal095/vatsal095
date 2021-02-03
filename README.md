@@ -1,4 +1,4 @@
-### Hi there 👋 I'm vatsal salkiya, a Full Stack Blockchain Developer.
+### Hi there 👋 I'm vatsal salkiya, a Blockchain Developer.
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
