@@ -24,7 +24,7 @@ Currently, I am working as Blockchain Developer at [Spectral Finance](https://sp
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 #### My Portfolio ####
-- 📫 My Resume: [View PDF](https://docs.google.com/document/d/16IondubzGxG3yZ78Chejp0B8yrLk4Ns_/edit)
+- 📫 My Resume: [View PDF](https://docs.google.com/document/d/1IdVU23xeJHngJm7J_lAw4HzJVrboR79nCHDBuplH0fk/edit?usp=sharing)
 
 
 ### Skills ###
