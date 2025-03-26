@@ -19,7 +19,7 @@
 
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
-Currently, I am working as Blockchain Developer at [Spectral Finance](https://spectral.finance/).I am passionate about Blockchain Technology and currently working on top of the Ethereum Blockchain.
+I am currently building [Vanna Finance](https://vanna.finance/), I worked as a Solidity developer at Spectral Finance for two years, where we developed an undercollateralized lending pool using AI-generated credit scores. I also worked part-time as a Solidity developer at Polynomial Finance, where I implemented a crypto derivative hedging strategy and got the idea to develop Vanna. Additionally
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
